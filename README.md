@@ -30,10 +30,7 @@ Browser → React/Vite (:5173) → Node/Express (:5000) → MongoDB (:27017)
 
 ## 📸 Screenshots
 
-
-| Dashboard | Watchlist | AI Chat |
-|---|---|---|
-| ![Dashboard]<img width="1163" height="613" alt="image" src="https://github.com/user-attachments/assets/9cc21850-c261-4786-ab4b-bebe9a5cc2b7" />
+[Dashboard]<img width="1163" height="613" alt="image" src="https://github.com/user-attachments/assets/9cc21850-c261-4786-ab4b-bebe9a5cc2b7" />
 
 
 ---
