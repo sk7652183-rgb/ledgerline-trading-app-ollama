@@ -30,7 +30,6 @@ Browser → React/Vite (:5173) → Node/Express (:5000) → MongoDB (:27017)
 
 ## 📸 Screenshots
 
-> Get a hosted link: drag an image into any GitHub Issue/PR/Discussion comment box → copy the generated `user-attachments` URL → paste below. No need to submit the comment.
 
 | Dashboard | Watchlist | AI Chat |
 |---|---|---|
@@ -41,11 +40,10 @@ Browser → React/Vite (:5173) → Node/Express (:5000) → MongoDB (:27017)
 
 ## 🎥 Demo Video
 
-> Same trick as above — drag the `.mp4` into a GitHub comment box, copy the generated link, paste it here.
 
 <video src="https://github.com/user-attachments/assets/51e2672d-edde-45c9-aa6b-955490992347" controls width="100%"></video>
 
-▶️ [Or watch directly](REPLACE_WITH_DEMO_VIDEO_URL)
+▶️ [Or watch directly](https://github.com/user-attachments/assets/51e2672d-edde-45c9-aa6b-955490992347)
 
 ---
 
